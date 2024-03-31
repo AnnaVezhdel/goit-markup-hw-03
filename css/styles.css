@@ -210,9 +210,14 @@ text-align: center;
     text-transform: capitalize;
     margin-bottom: 72px;
 }
-.portfolio-features {
+.portfolio-text {
     padding-left: 16px;
     margin-top: 32px;
+    border: 1px solid #e7e9fc;
+    border-top: none;
+}
+.portfolio-features {
+    margin-bottom: 8px;
 }
 .portfolio-item {
     padding-left: 16px;
